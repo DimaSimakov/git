@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitik", "gitik\gitik.csproj", "{F9605B8F-95FF-435C-B6BE-AFB0FA221405}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{A4B271A1-3497-446F-AC20-E655F04211AC}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9605B8F-95FF-435C-B6BE-AFB0FA221405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9605B8F-95FF-435C-B6BE-AFB0FA221405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9605B8F-95FF-435C-B6BE-AFB0FA221405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9605B8F-95FF-435C-B6BE-AFB0FA221405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F6C4C3-E6DC-4C8D-84AB-C44BCFA69B5F}
+	EndGlobalSection
+EndGlobal
